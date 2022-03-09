@@ -1,0 +1,519 @@
+.download{
+    height: 800px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .downloadHolder{
+    height: 750px;
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .downloadHead{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(./div678pic/download3.jpeg);
+    background-repeat: no-repeat;
+    background-size: 300px;
+    background-position: center;
+  }
+  .downloadBody{
+    height: 650px;
+    width: 95%;
+    display: flex; 
+    
+  }
+  .bodyHold{
+    height: 700px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    
+  }
+  .body1{
+    height: 620px;
+    width: 40%;
+    display: flex;
+    align-items: center;
+  }
+  .body1Wrap{
+    height: 400px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+  }
+  .learnMore{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 150px;
+    border-radius: 50px;
+    font-size: 15px;
+    border: none;
+    background-color: #fa573a;
+  
+  }
+  .getIt{
+    color: #fa573a;
+    font-size: 25px;
+  }
+  .available{
+    font-size: 30px;
+  }
+  .body2{
+    height: 620px;
+    width: 40%;
+    margin-left: 5px;
+    display: flex;
+    align-items: center;
+  }
+  .body2Wrap{
+    height: 600px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .androidBody{
+    height: 295px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    border: 2px solid #fa573a;
+  }
+  .Android{
+    height: 290px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .androidImg{
+    height: 90px;
+    border-radius: 50px;
+    background-color: #fa573a;
+  }
+  .androidPara{
+    text-align: center;
+  }
+  .androidBut{
+    height: 50px;
+    width: 120px;
+    border-radius: 30px;
+    border-color: #fa573a;
+    background-color: transparent;
+  }
+  .androidbutH{
+    color: #fa573a;
+  }
+  .appleBody{
+    height: 295px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    border: 2px solid #4086cd;
+    margin-top: 20px;
+  }
+  .Apple{
+    height: 290px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .appleImg{
+    height: 90px;
+    border-radius: 50px;
+  }
+  .appleBut{
+    height: 50px;
+    width: 120px;
+    border-radius: 30px;
+    border-color: #4086cd;
+    background-color: transparent;
+  }
+  .applebutH{
+    color: #4086cd;
+  }
+  .body3{
+    height: 650px;
+    width: 40%;
+    margin-left: 20px;
+    display: flex;
+    align-items: flex-end;
+  }
+  .body3H{
+    height: 630px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+  }
+  .windowBody{
+    height: 295px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    border: 2px solid #1eafed;
+  }
+  .window{
+    height: 290px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .windowImg{
+    height: 90px;
+    border-radius: 50px;
+  }
+  .windowBut{
+    height: 50px;
+    width: 120px;
+    border-radius: 30px;
+    border-color: #1eafed;
+    background-color: transparent;
+  }
+  .windowbutH{
+    color: #1eafed;
+  }
+  
+  .dotBody{
+    height: 295px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    border: 2px solid #ff467e;
+    margin-top: 20px;
+  }
+  .dot{
+    height: 290px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .dotImg{
+    height: 90px;
+    border-radius: 50px;
+  }
+  .dotBut{
+    height: 50px;
+    width: 120px;
+    border-radius: 30px;
+    border-color: #ff467e;
+    background-color: transparent;
+  }
+  .dotbutH{
+    color: #ff467e;
+  }
+  
+  .doticon{
+    height: 55px;
+    width: 100px;
+    width: 100px;
+    background-color: #ff467e;
+    border-radius: 50px;
+    text-align: center;
+  }
+  .androidh2{
+    color: #fa573a;
+  }
+  .appleh2{
+    color: #4086cd;
+  }
+  .windowh2{
+    color: #1eafed;
+  }
+  .otherh2{
+    color: #ff467e;
+  }
+  .blogHome{
+    height: 800px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .blogHolder{
+    height: 750px;
+    width: 95%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  
+  }
+  .blogHeader{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(./div678pic/download3.jpeg);
+    background-repeat: no-repeat;
+    background-size: 300px;
+    background-position: center;
+  }
+  .blogBody{
+    height: 630px;
+    width: 100%;
+    display: flex;
+    justify-content: center;align-items: center;
+  }
+  .blogbodyH{
+    height: 630px;
+    width: 95%;
+    display: flex;
+    justify-content: space-between;
+  }
+  .bodyH1{
+    height: 630px;
+    width: 45%;
+    display: flex;
+    flex-direction: column;
+  }
+  .thePhonew{
+    height: 300px;
+    width: 100%;
+  }
+  .pnonewoman{
+    height: 300px;
+    width: 100%;
+  }
+  .audience{
+    height: 330px;
+    width: 100%;
+    border: 2px solid #fa573a;
+    border-top: none;
+    display: flex;
+    align-items: flex-end;
+  }
+  .audienceCon{
+    height: 320px;
+    width: 100%;
+    margin-left: 10px;
+  }
+  .phoneWimg{
+    width: 45%;
+    height: 50px;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .phoneWpara1{
+    color: #fa573a;
+    font-size: 20px;
+  }
+  .like{
+    height: 30px;
+  }
+  .comment{
+    height: 25px;
+  }
+  .share{
+    height: 30px;
+  }
+  
+  
+  .bodyH2{
+    height: 630px;
+    width: 50%;
+  }
+  .bodyH2con{
+    height: 600px;
+    width: 100%;
+  
+  }
+  .handwoman1{
+    height: 190px;
+    width: 100%;
+    display: flex;
+    align-items: flex-end;
+    flex-direction: row;
+    margin-bottom: 20px;
+  }
+  .handwoman1T{
+    height: 190px;
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    margin-left: 20px;
+    border: 1px solid grey;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+  }
+  .hold{
+    height: 170px;
+    width: 90%;
+  
+  }
+  
+  .handwoman2{
+    height: 190px;
+    width: 100%;
+    display: flex;
+    align-items: flex-end;
+    flex-direction: row;
+    margin-bottom: 20px;
+  }
+  .handwoman3{
+    height: 190px;
+    width: 100%;
+    display: flex;
+    align-items: flex-end;
+    flex-direction: row;
+    margin-bottom: 20px;
+  }
+  
+  
+  .blue{
+    height: 200px;
+    width: 100%;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .blueCon{
+    height: 150px;
+    width: 70%;
+    background-color: purple;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .div8{
+    height: 875px;
+    width: 100%;
+    background-image: url(./div678pic/bg\ people2a.jpg);
+    background-blend-mode: luminosity;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .div8con{
+    height: 800px;
+    width: 100%;
+    background-color: rgba(1, 1, 39, 0.568);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .div8holder{
+    height: 750px;
+    width: 85%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .contactInfo{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .contacth1info{
+    text-align: center;
+    font-size: 30px;
+    background-repeat: no-repeat;
+    background-size: 300px;
+    background-position: center;
+    width: 50%;
+    background-image: url('./div678pic/download3a.png');
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+  }
+  .contactbody{
+    height: 600px;
+    width: 100%;
+  }
+  .message1{
+    display: flex;
+    justify-content: space-between;
+    height: 150px;
+    width: 100%;
+  }
+  .leftman{
+    height: 150px;
+    width: 50%;
+  }
+  .myprofile{
+    height: 20px;
+  }
+  .myprofileT{
+    color: #fa573a;
+    font-size: 20px;
+    margin-bottom: 50px;
+  }
+  .shakib{
+    height: 70px;
+    width: 90%;
+    background-color: transparent;
+    border: none;
+    border-bottom: 2px solid white;
+  }
+  .rightmandiv6{
+    height: 150px;
+    width: 50%;
+  }
+  .message2{
+    height: 350px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    margin-top: 20px;
+  }
+  .mrEmail{
+    height: 50%;
+  }
+  .mrmessageUs{
+    height: 50%;
+  }
+  .message3{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .ourmessage{
+    height: 100px;
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .thesend{
+    height: 50px;
+  }
+  .sendbutton{
+    font-size: 20px;
+    color: white;
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    border: none;
+    background-color: #fa573a;
+  }

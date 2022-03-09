@@ -1,0 +1,274 @@
+.Div2 {
+    width: 100%;
+    height: 1494px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  
+  }
+  .Div2a {
+    height:600px;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+    
+  }
+  
+  .Div2atop {
+    height: 200px;
+    display: flex;
+    justify-content: center; 
+   
+  }
+  
+  .Div2atopHeader {
+   position: absolute;
+   align-items: center;
+   font-weight: bolder;
+   font-stretch: extra-expanded;
+   font-size: 38px;
+   bottom: -145px;
+   
+  }
+  
+  .Div2aimg {
+    z-index: -10;
+  
+  }
+  
+  .Div2abottom {
+    width: 100%;
+    height: 300px;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center; 
+    
+  }
+  
+  .Div2abox1 {
+    width: 530px;
+    height: 244px;
+    background-color: white;
+    margin-right: 0px;
+    border-style: solid;
+    border-color:  white #EEEFF4 #fa573a #EEEFF4 ;
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 30px 0px #EEEFF4;
+    
+  }
+  
+  .Div2abox2 {
+    width: 530px;
+    height: 244px;
+    background-color: white;
+    margin-right: 0px;
+    border-style: solid;
+    border-color: white #EEEFF4 #fa573a #EEEFF4 ;
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 15px 0px #EEEFF4;
+    
+  }
+  
+  .Div2arrow1 {
+    width: 140px;
+    height: 244px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    
+  }
+  
+  .Div2arrow2 {
+    width: 140px; 
+    height: 244px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    
+  }
+  
+  .Div2arrow {
+    margin-right: 35px;
+  }
+  
+  .Div2arrow2a {
+    margin-left: 35px;
+  }
+  
+  .Div2box1left {
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-left: 20px;
+  }
+  
+  .Div2box2left{
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-left: 20px;
+  }
+  
+  .Div2box1right {
+    width: 70%; 
+  }
+  
+  .Div2box2right {
+    width: 70%;
+  }
+  
+  .Div2iconline1 {
+   display: flex;
+   justify-content: space-around;
+  }
+  
+  .Div2areadmore {
+    width: 200px;
+    height: 30px;
+    color: #fa573a;
+    display: flex;
+    justify-content: flex-start; 
+  
+  }
+  
+  .Div2areadmore1 {
+    width: 150px;
+    height: 15px;
+    margin-top: 0px;
+  }
+  
+  .Div2aiconarrow1 {
+    width: 20px ;
+    height: 7px;
+  margin-bottom:-5px;
+  margin-left: -45px;
+  }
+  
+  .Div2b {
+    width: 80%;
+    height:890px;
+    background-color: white;
+    display: flex;
+    color: #21252E;
+    flex-direction: column;
+    justify-content: center;
+    
+    
+  }
+  
+  .Div2btop {
+    height: 200px;
+    display: flex;
+    justify-content: space-around; 
+    align-items: center;
+    
+  }
+  
+  .Div2btopHeader {
+   position: absolute;
+   align-items: center;
+   font-weight: bolder;
+   font-stretch: ultra-expanded;
+   font-size: 38px;
+   color: black;
+  }
+  
+  .Div2bimg {
+    z-index: -10;
+  }
+  
+  .Div2bbottom {
+    width: 100%;
+    height: 690px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  .Div2bright {
+    width: 50%;
+    height: 690px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  
+  }
+  
+  .Div2bleft {
+    width: 50%;
+    height: 690px;
+   justify-content: center;
+   align-items: center;
+  
+  }
+  
+  .Div2brighttop {
+    width: 100%;
+    margin-top: -115px;
+  }
+  
+  .Div2brightred {
+    color: #fa573a;
+  }
+  
+  .Div2bparagragh {
+    font-size: 18px;
+  }
+  
+  .Div2bphoto {
+    z-index: 2;
+    position: absolute;
+   
+   
+  }
+   
+  .Div2bcircle{
+    margin-top: 60px;
+    margin-left: 17px;
+   z-index: 3;
+   
+  }
+  
+  .Div2bfeatures {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 250px;
+    justify-content: space-between;
+  
+  }
+  
+  .Div2bname{
+    width: 500px;
+    height: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+   
+  }
+  
+  .Div2btext {
+   width: 400px;
+   height: 24px;
+   font-size: 15px;
+   color: #212529;
+  
+  }
+  
+  .Div2bicons {
+   width: 50px;
+   height: 50px;
+  }
+  
+  
